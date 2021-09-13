@@ -1,0 +1,33 @@
+body {
+    background-color: darkolivegreen;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin: auto;
+    border-style: double;
+    border-width: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 50px;
+}
